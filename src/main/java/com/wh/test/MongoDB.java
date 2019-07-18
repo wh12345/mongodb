@@ -47,7 +47,7 @@ public class MongoDB {
 		/*BasicDBObject update=new BasicDBObject();
 		update.put("$set",new BasicDBObject("email","1439894056@qq.com"));
 		db.getCollection("javadb").update(new BasicDBObject(), update, false, true);*/
-		DBCursor dbCursor=db.getCollection("javadb");
+	
 		
 		
 	}
